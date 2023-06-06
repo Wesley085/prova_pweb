@@ -97,7 +97,8 @@ body {
     .navbar .menu li a {
         display: inline-block;
         margin-top: 13px 0;
-        font-size: 25px;
+        font-size: 30px;
+        padding: 1.5rem;
     }
 } 
 
